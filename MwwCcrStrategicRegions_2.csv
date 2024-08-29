@@ -1,0 +1,6 @@
+StrategicRegionId,CountryKey,CountryName,PostalCodeRange1,PostalCodeRange2,PostalCodeRange3
+GER100001,DE,Germany,9,0,
+GER100002,DE,Germany,1,2,
+GER100003,DE,Germany,3,4,5
+GER100004,DE,Germany,6,7,
+GER100005,DE,Germany,8,,
